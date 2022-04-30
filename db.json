@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "nickname": "takashi",
+            "age": 40
+        },
+        {
+            "id": "2",
+            "nickname": "hajime",
+            "age": 41
+        },
+        {
+            "id": "3",
+            "nickname": "nagato",
+            "age": 42
+        }
+    ]
+}

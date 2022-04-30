@@ -1,3 +1,2 @@
-# react-vite-template
+# concurrent-render-test
 
-vitejs で React のプロジェクトを作る際のテンプレート
